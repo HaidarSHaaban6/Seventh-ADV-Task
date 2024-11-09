@@ -1,0 +1,11 @@
+/* styles/globals.css */
+@font-face {
+  font-family: 'Podcast';
+  src: url('../app/fonts/Podcast.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
